@@ -87,8 +87,8 @@ To bridge the gap between model training and real-world deployment, the notebook
 ## ⚙️ 8. How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/telco-customer-churn-prediction-by-decision-trees.git
-   cd telco-customer-churn-prediction-by-decision-trees
+   git clone https://github.com/uturkmen24/IBM-telco-customer-churn-prediction-by-decision-trees.git
+   cd IBM-telco-customer-churn-prediction-by-decision-trees
    ```
 2. Install the required Python libraries:
    ```bash
